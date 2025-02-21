@@ -1,2 +1,1 @@
-# code35566
-python
+print("helloworld")
